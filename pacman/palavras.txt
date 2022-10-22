@@ -1,0 +1,6 @@
+carro
+casa
+arvore
+celular
+python
+sony
